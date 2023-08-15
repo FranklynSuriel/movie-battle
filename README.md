@@ -10,7 +10,7 @@ Movie Battle is a fun app that lets two people play a trivia game to decide what
 
 ## Live link
 
-https://kelseyra.github.io/movie-battle/
+[https://franklynsuriel.github.io/movie-battle/](https://franklynsuriel.github.io/movie-battle/)
 
 ## Technologies
 
